@@ -12,8 +12,8 @@ Virtualized VoIP lab using Asterisk PBX on Ubuntu and Linphone SIP clients on Wi
 
 ## Topology
 - Ubuntu VM: Asterisk SIP server
-- Windows VM 1: Linphone extension 1001
-- Windows VM 2: Linphone extension 1003
+- Windows VM 1: Linphone extension 1003
+- Windows VM 2: Linphone extension 1004
 
 ## Features
 - Configured PJSIP SIP accounts
